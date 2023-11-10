@@ -1,2 +1,1 @@
-# Блек-джек, (c) Эл Свейгарт al@inventwithpython.com
-Классическая карточная игра, известная также как "двадцать одно" (В этой версии нет страхования или разбиения). Больше информации — в статье https://ru.wikipedia.org/wiki/Блэкджек. Код размещен на сайте https://nostarch.com/big-book-small-python-projects
+written for myself
